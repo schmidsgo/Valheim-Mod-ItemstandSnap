@@ -1,9 +1,9 @@
 {
     "name": "ItemStandSnap",
     "version_number": "0.0.1",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/schmidsgo/Valheim-Mod-ItemstandSnap",
     "description": "Snap Itemstands",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        "denikson-BepInExPack_Valheim-5.4.2100"
     ]
 }
