@@ -1,0 +1,9 @@
+{
+    "name": "ItemStandSnap",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Snap Itemstands",
+    "dependencies": [
+        "MythicManiac-TestMod-1.1.0"
+    ]
+}
